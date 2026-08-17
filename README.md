@@ -105,7 +105,5 @@ The objective of this project is to design and document a simple, practical batt
 * KiCad PCB Editor / Pcbnew
 * ngspice (for simulation, where applicable)
 
-## Author :-Paresh patil
-
 **eSim Semester Long Internship – Autumn 2026**
 **Submission Task 7**
